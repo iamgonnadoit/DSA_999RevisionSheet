@@ -1,0 +1,16 @@
+Q1) Create an explainMap() function
+      i)  initialize a map mpp with elements ({1,"abc"}, {2,"bcd"}, {3,"cat"}, {4,"raj})
+      ii) print the map in this order 1 -> abc , etc..
+      ii) Given a key input by the user output the value using find()
+
+Q2) Create an explainMultiMap() function
+      i)  initialize a <int,char> multimap with
+      ({3, 'b'});
+      ({1, 'a'});
+      ({1, 'b'});
+      ({1, 'a'});
+      ({2, 'a'});
+      ({2, 'a'});
+      ({2, 'b'});
+      ii) print all elements of multimap
+      iii)print all the key value pairs when the key is "2"

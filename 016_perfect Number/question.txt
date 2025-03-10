@@ -1,0 +1,18 @@
+Q) You are given an integer n. You need to check if the number is a perfect number or not. Return true if it is a perfect number, otherwise, return false.
+
+A perfect number is a number whose proper divisors add up to the number itself.
+
+
+Examples:
+Input: n = 6
+
+Output: true
+
+Explanation: Proper divisors of 6 are 1, 2, 3.
+
+1 + 2 + 3 = 6.
+
+i) Write boolean function isPerfect() with brute force approach
+ii)Write boolean function OptimalisPerferct() with Optimal approach. 
+
+Hint : find out the divisors of 36. 1x36, 2x18, 3x12, 4x9, 6x6

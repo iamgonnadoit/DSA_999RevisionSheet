@@ -1,0 +1,7 @@
+Given 3 Numbers a,b and c
+Find out which is the largest and print it.
+
+Use Nested if else and not && operators.
+
+Sample input : 51 121 71
+Sample Output : 121 is the largest

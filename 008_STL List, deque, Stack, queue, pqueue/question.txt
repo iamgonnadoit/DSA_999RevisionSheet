@@ -1,0 +1,24 @@
+Q1) Make a function explainList() 
+      i)    in comment write what the underlying data structure for list and deque is 
+      ii)   create a list 'ls' and initialize it with 6,7
+      iii)  add 5 in front of the list and 8 in the back
+      iv)   print out the list
+
+Q2) Make a function explainDeque()
+      i)    create a deque d with  'b','c' in it
+      ii)   add a 'a' in the front
+      iii)  print the deque d
+
+Q3) Make a function explainStack()
+      i)    create a stack st
+      ii)   insert elements such that it has 33 22 11 from top to bottom
+      iii)  print size of the stack
+      iv)   print the stack st
+
+Q4) Make a function explainQueue()
+      i)    make a queue q and add 7,11,13,17,19 in it
+      ii)   print the queue
+
+Q5) Make a function explainPriorityQueue()
+      i)    make a priority queue pq1 that stores the greatest element on top, add 5,2,10,8 in it, print it.
+      ii)   make a priority queue pq2 that stores the smallest element on top, add 5,2,10,8 in it, print it.

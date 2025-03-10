@@ -1,0 +1,24 @@
+Q1) Create a function explainSet()
+[optional] explain set in comments
+      i)  Make a Set st and insert 2,21,21,21,12
+      ii) Print the set [2,12,21]
+      iii)find the location of 12 and store it in pointer i
+      iv) print the element after i
+      v)  check if the elements 21 and 11 are present in the set or not
+      vi) delete element 12 from the set
+      vii)make a new set s and erase the {3,4,5} part
+      viii)make another set s1 = {34,45,56,67,78}, find out the lower_bound of 47 and upper_bound of 56
+
+Q2) Create a function explainMultiSet()
+[optional] explain Multiset in comments
+      i)  Make a multiset ms and insert 1,1,1,1,2,0,21,21
+      ii) print ms
+      iii)print the number of 1s in it
+      iv) erase all the 1s in ms
+      v)  ease one 21 in ms
+
+Q3) Create a function explainUnorderedSet()
+[optional] explain unorderedset in comments
+      i)  Make an unordered set st and insert 1,2,1,11,11,12,13,12
+      ii) print st
+      iii)find address of 2 and comment its time complexity

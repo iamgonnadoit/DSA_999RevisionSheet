@@ -1,0 +1,5 @@
+Input a number from 1 to 7 and print it's corresponding day of the week
+if anything outside 1-7 print "Invalid Input"
+
+Sample Input : 7
+Sample Output : Sunday

@@ -1,0 +1,29 @@
+Q1)You are given an integer n. Return the value of n! or n factorial.
+
+Factorial of a number is the product of all positive integers less than or equal to that number.
+
+
+Examples:
+Input: n = 2
+
+Output: 2
+
+Explanation: 2! = 1 * 2 = 2.
+
+Q2) You are given an integer m. You need to check whether it is an armstrong number or not. Return true if it is an armstrong number, otherwise return false.
+
+An armstrong number is a number which is equal to the sum of the digits of the number, raised to the power of the number of digits.
+
+
+Examples:
+Input: m = 153
+
+Output: true
+
+Explanation: Number of digits : 3.
+
+1 ^ 3 + 5 ^ 3 + 3 ^ 3 = 1 + 125 + 27 = 153.
+
+Therefore, it is an Armstrong number.
+
+Explain the time and space complexity of both the functions

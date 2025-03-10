@@ -1,0 +1,29 @@
+
+Q1) Make a fuction called explainPair and 
+
+  i)    make a int,int pair with {2,8} called pr1
+  ii)   make a int,char pair with {2,'b'} called pr2
+  iii)  print first and second item of pr1 & pr2
+  iv)   make a pair with it's first element being a <int,char> pair and second item being a int, called pr3
+  v)    print the second item of the first item in pr3
+
+
+Q2) Make a function called explainVector and printVector
+
+  i)    make a empty vector 'vec' and push 1,2,3 inside it, print it.
+  ii)   print the nummber of elements in vec
+  iii)  print vec like any other array 
+  iv)   print vec in reverse using iterators (without auto)
+  v)    print vec using for each loop
+  vi)   print vec in reverse using rbegin() and rend()
+  vii)  create vec2 of size 5 but all elements 0, print it
+  viii) create vec3 of size 3 but all elements 9, print it
+  ix)   create vec4 with elements {7,11,13}
+  x)    create a vector dupvec and copy vec4 in it
+  xi)   create vec 5 with elements from 1 to 7, make another vector called sub with only 3,4,5,6 in it.
+  xii)  print first and last element of sub using .front() and ____
+  xiii) pop the last element of sub and print the last element again
+  xiv)  create a vector vec6 with elements 1 to 8, erase 5 and print vec6, then erase {2,3,4} and print 1,6,7,8 only
+  xv)   make vec6 empty
+  xvi)  swap vec5 and vec6
+  xvii) insert 5 into vec6 between 2 & 3

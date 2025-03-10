@@ -1,0 +1,44 @@
+Write a Program to print the following things
+
+a) The minimum and maximum possible int values
+b) The approximate ranges of int, long, long long, 
+c) Decimal places of float and double
+
+lastly
+
+d) store and print the following data-types : 42, 1000000000, 1000000000000, 0.12345, 3.1456234698123, 'z', "bitcoin hits $100k"
+
+e) input the following in separate variables : 5, 1.2345, x, y, z, "hello", "world", "it is so beautiful"
+
+given input in such fashion :
+ 
+5 1.2345 xy
+z hello world
+it is so beautiful
+i wanna cum
+
+Output one by one in separate lines
+
+------------------------------------------
+
+Expected Output : 
+
+Minimum int Value = -2147483648
+Maximum int Value = 2147483647
+
+Approximate Ranges of the follwing
+int        -> [+- 10^9]
+long       -> [+- 10^12]
+long long  -> [+- 10^18]
+float -> 7 decimal digits
+double -> 15 decimal digits
+42 1000000000 1000000000000 0.12345 3.14562 z bitcoin hits $100k
+5
+1.2345
+x
+y
+z
+hello
+world
+it is so beautiful
+i wanna cum

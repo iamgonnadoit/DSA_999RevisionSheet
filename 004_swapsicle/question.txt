@@ -1,0 +1,8 @@
+input two numbers swap them using a pass by refernece function
+
+Sample Input : 3 8
+
+Sample Output :
+
+a = 3, b = 8
+a = 8, b = 3

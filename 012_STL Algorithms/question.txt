@@ -1,0 +1,15 @@
+Q) Write functions to use C++ STL algos
+
+    i)  explainSort(), declare array of size 5 {6,7,1,2,0}, sort middle 3 elements, print sorted array, same with vector {5,7,1,0,1}
+
+    ii) explainAccumulate(), declare a array {6,2,1,7,0} print sum of all elements without using loop
+
+    iii) explainCount(), declare array {6,2,1,1,0} find how many times 1 appears.
+
+    iv)  exlplainFind(), using find() STL function find out if a number n is "found" or "not found" in array {6, 2, 1, 1, 0}
+
+    v)  explainNextPermutation(), find and print all the permutations of "abcd" with d staying at the same position
+
+    vi) explainMaxMin(), find the largest and smallest elments of array {7, 6, 5, 10, 9}
+
+    vii) explainReverse(), reverse the vector {7, 6, 5, 10, 9} and print it.

@@ -1,0 +1,9 @@
+Q) Input a number n and do the following operations
+
+    i)  count and print the total number of digits in n
+    ii) count the number of odd digits in n
+    iii)reverse the number n and print it
+    iv) print 1 if n is palindrome otherwise 0
+    v)  print the largest digit in n
+
+State the Time Complexity and Scpace Complaxity of all the functions

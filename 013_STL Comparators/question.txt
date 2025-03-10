@@ -1,0 +1,3 @@
+Q) sort an array of pairs {{1,6}, {1,5}, {2,6}, {2,9}, {3,9}} in descending order acoording to the second element, if second element is same sort in ascending order of first element.
+
+Output : {2,9} {3,9} {1,6} {2,6} {1,5} 
