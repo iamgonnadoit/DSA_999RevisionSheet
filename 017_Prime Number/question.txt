@@ -1,0 +1,29 @@
+Q1) You are given an integer n. You need to check if the number is prime or not. Return true if it is a prime number, otherwise return false.
+
+A prime number is a number which has no divisors except 1 and itself.
+
+
+Examples:
+Input: n = 5
+
+Output: true
+
+Explanation: The only divisors of 5 are 1 and 5 , So the number 5 is prime.
+
+Constraints:
+1 <= n <= 5000
+
+Make two functions one isPrime() and one optimalIsPrime() to solve in brute and optimal approaches respectively.
+
+
+Q2) You are given an integer n. You need to find out the number of prime numbers in the range [1, n] (inclusive). Return the number of prime numbers in the range.
+
+A prime number is a number which has no divisors except, 1 and itself.
+
+Examples:
+Input: n = 6
+
+Output: 3
+
+Explanation: Prime numbers in the range [1, 6] are 2, 3, 5.
+

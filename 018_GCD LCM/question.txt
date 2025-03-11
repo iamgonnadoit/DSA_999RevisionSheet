@@ -1,0 +1,31 @@
+You are given two integers n1 and n2. You need find the Greatest Common Divisor (GCD) of the two given numbers. Return the GCD of the two numbers.
+
+The Greatest Common Divisor (GCD) of two integers is the largest positive integer that divides both of the integers.
+
+
+Examples:
+Input: n1 = 4, n2 = 6
+
+Output: 2
+
+Explanation: Divisors of n1 = 1, 2, 4, Divisors of n2 = 1, 2, 3, 6
+
+Greatest Common divisor = 2.
+
+You are given two integers n1 and n2. You need find the Lowest Common Multiple (LCM) of the two given numbers. Return the LCM of the two numbers.
+
+
+
+The Lowest Common Multiple (LCM) of two integers is the lowest positive integer that is divisible by both the integers.
+
+
+Examples:
+Input: n1 = 4, n2 = 6
+
+Output: 12
+
+Explanation: 4 * 3 = 12, 6 * 2 = 12.
+
+12 is the lowest integer that is divisible both 4 and 6.
+
+Q1) Create functions of GCD LCM using brute force methods, and optimal methods.
