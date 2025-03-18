@@ -1,0 +1,8 @@
+Given an array of n integers, find the sum of the frequencies of the highest occurring number and lowest occurring number.
+
+Examples:
+Input: arr = [1, 2, 2, 3, 3, 3]
+
+Output: 4
+
+Explanation: The highest frequency is 3 (element 3), and the lowest frequency is 1 (element 1). Their sum is 3 + 1 = 4.
