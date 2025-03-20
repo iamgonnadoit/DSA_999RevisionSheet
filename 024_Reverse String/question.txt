@@ -1,0 +1,7 @@
+Q) Manimpulate with strings
+
+  i)  Initialize a string s with "car"
+  ii) add "sex" to it
+  iii)Print the letters one by one in each line
+  iv) change s to a substring of it to only include "ars"
+  v)  Reverse the string and print it writing a function reverseString(string& s) in optimal time complexity
