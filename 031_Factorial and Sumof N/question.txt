@@ -1,0 +1,29 @@
+i) Given an integer N, return the sum of first N natural numbers. Try to solve this using recursion.
+
+
+Examples:
+Input : N = 4
+
+Output : 10
+
+Explanation : first four natural numbers are 1, 2, 3, 4.
+
+Sum is 1 + 2 + 3 + 4 => 10.
+
+int NnumbersSum(int N){
+			//your code goes here
+		}
+
+ii) Factorial of a non-negative integer, is the multiplication of all integers smaller than or equal to n (use 64-bits to return answer). use recursion.
+
+
+Examples:
+Input : n = 3
+
+Output : 6
+
+Explanation : Factorial = 1 * 2 * 3 => 6
+
+		long long int factorial(int n){
+			//your code goes here
+		}
